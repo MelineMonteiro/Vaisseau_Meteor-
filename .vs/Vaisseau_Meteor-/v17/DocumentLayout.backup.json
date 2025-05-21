@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\melin\\Desktop\\Github\\Vaisseau_Meteor-\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD17A9F3-1B6D-1DF2-9E28-8D103368C424}|Assembly-CSharp.csproj|c:\\users\\melin\\desktop\\github\\vaisseau_meteor-\\assets\\scripts\\scrolltexture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD17A9F3-1B6D-1DF2-9E28-8D103368C424}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scrolltexture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD17A9F3-1B6D-1DF2-9E28-8D103368C424}|Assembly-CSharp.csproj|c:\\users\\melin\\desktop\\github\\vaisseau_meteor-\\assets\\ctrlshuttle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD17A9F3-1B6D-1DF2-9E28-8D103368C424}|Assembly-CSharp.csproj|solutionrelative:assets\\ctrlshuttle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScrollTexture.cs",
+              "DocumentMoniker": "C:\\Users\\melin\\Desktop\\Github\\Vaisseau_Meteor-\\Assets\\Scripts\\ScrollTexture.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScrollTexture.cs",
+              "ToolTip": "C:\\Users\\melin\\Desktop\\Github\\Vaisseau_Meteor-\\Assets\\Scripts\\ScrollTexture.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScrollTexture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T21:47:05.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CtrlShuttle.cs",
+              "DocumentMoniker": "C:\\Users\\melin\\Desktop\\Github\\Vaisseau_Meteor-\\Assets\\CtrlShuttle.cs",
+              "RelativeDocumentMoniker": "Assets\\CtrlShuttle.cs",
+              "ToolTip": "C:\\Users\\melin\\Desktop\\Github\\Vaisseau_Meteor-\\Assets\\CtrlShuttle.cs",
+              "RelativeToolTip": "Assets\\CtrlShuttle.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T21:43:47.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -17,6 +17,6 @@ public class ScrollTexture : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        meshRenderer.material.mainTextureOffset = new Vector2(Time.time * vitesse, 0f);
+        meshRenderer.material.mainTextureOffset = new Vector2(0f, Time.time * vitesse);
     }
 }
